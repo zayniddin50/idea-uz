@@ -1,0 +1,10 @@
+.color {
+  background-color: #f2f3f5;
+  width: 100%;
+}
+@media screen and (max-width: 756px) {
+  .text {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+}
